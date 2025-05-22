@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grace Smith aka @theitgirlie-hub 
 - 👀 I’m interested in becoming a Cybersecurity Specialist
-- 🌱 I’m currently learning Network Engineering (foundation of cybersecurity).
+- 🌱 I’m currently learning Network Engineering (foundation of cybersecurity) and Python.
 - 📫 How to reach me: Email- smithgrace361@gmail.com  and Twitter- @theitgirliee
 - 😄 Pronouns: she/her
   
